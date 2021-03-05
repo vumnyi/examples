@@ -1,2 +1,2 @@
 # examples
-Simple examples good practices on python
+* Simple examples good practices on python
